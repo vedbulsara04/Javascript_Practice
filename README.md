@@ -6,3 +6,6 @@
 >- my-first-js --> comments.js (12/12/22)
 
 >- js_variables --> [ var.js || let.js || const.js ] (13/12/22) 
+
+>- working-with-strings --> str_concatenation (20/12/22)
+>- working-with-strings --> template_literals (20/12/22)
